@@ -18,8 +18,6 @@ Java Swing
 # Getting Started
 To run this project locally, follow these steps:
 
-Clone the repository: git clone https://github.com/samridhi-sahu/Covid-19-cases-web-scrapping-using-java.git
-
 Open the project directory: cd Covid-19-cases-web-scrapping-using-java
 
 Build the project using Maven: mvn clean install
